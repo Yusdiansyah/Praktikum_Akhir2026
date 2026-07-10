@@ -1,0 +1,98 @@
+{
+    "age": {
+        "mean": 19.983625,
+        "min": 16.0,
+        "max": 24.0,
+        "std": 2.5870723757385807
+    },
+    "gaming_hours": {
+        "mean": 4.0857725,
+        "min": 0.0,
+        "max": 8.0,
+        "std": 2.308800933052113
+    },
+    "study_hours": {
+        "mean": 5.460581250000001,
+        "min": 1.0,
+        "max": 10.0,
+        "std": 2.575787250462156
+    },
+    "sleep_hours": {
+        "mean": 6.4934525,
+        "min": 4.0,
+        "max": 9.0,
+        "std": 1.4426557150556651
+    },
+    "attendance": {
+        "mean": 79.88652499999999,
+        "min": 60.0,
+        "max": 100.0,
+        "std": 11.580419255715324
+    },
+    "social_activity": {
+        "mean": 2.50779,
+        "min": 0.0,
+        "max": 5.0,
+        "std": 1.4411279513358677
+    },
+    "device_usage": {
+        "mean": 7.586315000000001,
+        "min": 1.1,
+        "max": 13.95,
+        "std": 2.710035370108369
+    },
+    "reaction_time_ms": {
+        "mean": 271.10583875,
+        "min": 183.26,
+        "max": 347.87,
+        "std": 29.44067533094292
+    },
+    "addiction_score": {
+        "mean": 9.9084925,
+        "min": -4.51,
+        "max": 23.16,
+        "std": 5.035836689055613
+    },
+    "grades": {
+        "mean": 66.1807759228133,
+        "min": 0.0,
+        "max": 118.63293578685628,
+        "std": 22.422023847476744
+    },
+    "gender": {
+        "modes": [
+            "Male",
+            "Female",
+            "Other"
+        ],
+        "value_counts": {
+            "Male": 3904,
+            "Female": 3803,
+            "Other": 293
+        }
+    },
+    "gaming_genre": {
+        "modes": [
+            "FPS",
+            "RPG",
+            "Casual"
+        ],
+        "value_counts": {
+            "FPS": 3187,
+            "RPG": 2408,
+            "Casual": 2405
+        }
+    },
+    "stress_level": {
+        "modes": [
+            "Medium",
+            "Low",
+            "High"
+        ],
+        "value_counts": {
+            "Medium": 4247,
+            "Low": 2743,
+            "High": 1010
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "gaming_hours": [
+        {
+            "gaming_bin": "0-2 hours",
+            "mean": 82.25583830424286,
+            "count": 1904
+        },
+        {
+            "gaming_bin": "2-4 hours",
+            "mean": 72.32385593556022,
+            "count": 1944
+        },
+        {
+            "gaming_bin": "4-6 hours",
+            "mean": 62.371212330493925,
+            "count": 2093
+        },
+        {
+            "gaming_bin": "6-8 hours",
+            "mean": 49.38832826846777,
+            "count": 2059
+        }
+    ],
+    "study_hours": [
+        {
+            "study_bin": "1-3 hours",
+            "mean": 44.911816418381584,
+            "count": 1783
+        },
+        {
+            "study_bin": "3-6 hours",
+            "mean": 58.968277995629876,
+            "count": 2703
+        },
+        {
+            "study_bin": "6-8 hours",
+            "mean": 76.31073295561332,
+            "count": 1799
+        },
+        {
+            "study_bin": "8-10 hours",
+            "mean": 89.03450419778198,
+            "count": 1715
+        }
+    ],
+    "sleep_hours": [
+        {
+            "sleep_bin": "4-5.5 hours",
+            "mean": 59.18509548043691,
+            "count": 2428
+        },
+        {
+            "sleep_bin": "5.5-7 hours",
+            "mean": 65.43106317959213,
+            "count": 2389
+        },
+        {
+            "sleep_bin": "7-8.5 hours",
+            "mean": 71.48626274477205,
+            "count": 2390
+        },
+        {
+            "sleep_bin": "8.5-10 hours",
+            "mean": 73.86862252201112,
+            "count": 793
+        }
+    ],
+    "stress_level": [
+        {
+            "stress_level": "High",
+            "mean": 81.0198573400669,
+            "count": 1010
+        },
+        {
+            "stress_level": "Low",
+            "mean": 50.57392778780281,
+            "count": 2743
+        },
+        {
+            "stress_level": "Medium",
+            "mean": 72.73177950249486,
+            "count": 4247
+        }
+    ]
+}
